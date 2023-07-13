@@ -4,6 +4,9 @@ toc:
   depth_to: 3
   ordered: true
 ---
+# 目次
+
+[TOC]
 
 # 開発初心者の効果的な ChatGPT 活用法がわからない
 
